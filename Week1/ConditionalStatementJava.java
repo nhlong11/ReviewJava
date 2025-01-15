@@ -30,5 +30,6 @@ public class ConditionalStatementJava {
             x++;
         }
         while (x< 10);
+
     }
 }
