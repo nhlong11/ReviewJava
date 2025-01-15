@@ -53,7 +53,7 @@ public class OperatorJava {
 
     public void main(String[] args){
         OperatorJava operatorJava = new OperatorJava();
-       int a =  operatorJava.add(13, 14);
+        int a =  operatorJava.add(13, 14);
         int b =  operatorJava.subtract(13, 14);
         int c = operatorJava.multiple(13, 14);
         int d =   operatorJava.quotient(13, 14);
