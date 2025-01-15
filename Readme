@@ -1,0 +1,4 @@
+-Javac : là trình biên dịch java
+    -> Sử dụng để biên dịch mã nguồn java thành bytecode mà máy ảo (JVM) có thể thực thi
+    -> Khi bạn chạy lệnh javac chuyển đổi các file java thành các file .class chứa bytecode
+    ex: javac HelloWorld.java --> java HellowWorld
